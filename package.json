@@ -5,9 +5,8 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
-    "@types/pixi.js": "^5.0.0",
-    "pixi.js": "^5.1.5",
-    "psd": "^3.2.0",
+    "@types/pixi.js": "4.8.8",
+    "pixi.js": "4.8.8",
     "strip-ansi": "^5.2.0",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
